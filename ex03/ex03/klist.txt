@@ -1,0 +1,5 @@
+Credentials cache: API:26631
+        Principal: nmajedaa@42.US.ORG
+
+  Issued                Expires               Principal
+Aug  7 16:31:43 2017  Aug  8 02:31:43 2017  krbtgt/42.US.ORG@42.US.ORG

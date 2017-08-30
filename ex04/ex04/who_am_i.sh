@@ -1,0 +1,1 @@
+exec ldapwhoami -Q
